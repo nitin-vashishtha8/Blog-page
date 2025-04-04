@@ -1,0 +1,30 @@
+[
+    {
+      "id" : 1,
+      "title" : "What is CSAT in Customer Service? A Detailed Guide",
+        "description" : "CSAT (Customer Satisfaction Score) is a key performance indicator (KPI) used to measure customer satisfaction with a product, service, or experience. It is typically assessed through surveys or feedback forms that ask customers to rate their satisfaction on a scale, often ranging from 1 to 5 or 1 to 10. CSAT scores help businesses gauge how well they are meeting customer expectations and identify areas for improvement. A higher CSAT score indicates greater customer satisfaction, while a lower score may signal the need for changes in products, services, or customer support.",
+        "author" : "Nit Vashishtha",
+        "date" : "04/04/2025"
+    },
+    {
+        "id" : 2,
+        "title" : "What LinkedIn is and How to Use it Effectively",
+        "description" : "LinkedIn is a professional networking platform that allows individuals and businesses to connect, share information, and build professional relationships. It is widely used for job searching, recruiting, and networking within various industries. To use LinkedIn effectively, create a complete profile with a professional photo, a compelling headline, and a detailed summary of your skills and experience. Connect with colleagues, industry peers, and potential employers. Share relevant content, engage with others' posts, and join industry-specific groups to expand your network and enhance your visibility.",
+        "author" : "Nit Vashishtha",    
+        "date" : "04/04/2025"
+    },
+    {
+        "id" : 3,
+        "title" : "How to Use AI tools to Enhance Your Productivity",
+        "description" : "AI tools can significantly enhance productivity by automating repetitive tasks, providing data insights, and improving decision-making processes. To leverage AI for productivity, identify tasks that can be automated, such as data entry, scheduling, or customer support. Use AI-powered tools for project management, content generation, and data analysis. Additionally, consider using virtual assistants to manage your calendar and reminders. By integrating AI into your workflow, you can save time, reduce errors, and focus on more strategic activities.",
+        "author" : "Nit Vashishtha",
+        "date" : "04/04/2025"
+        },
+    {
+        "id" : 4,
+        "title" : "How to Start a Startup and build it as a big company",
+        "description" : "Starting a startup involves several key steps: identifying a viable business idea, conducting market research, creating a business plan, securing funding, and building a team. Begin by validating your idea through customer feedback and market analysis. Develop a comprehensive business plan outlining your goals, target audience, revenue model, and marketing strategy. Seek funding through investors, loans, or crowdfunding. Assemble a skilled team that shares your vision and can help execute your plan. Focus on building a strong brand, delivering value to customers, and continuously iterating based on feedback to grow your startup into a successful company.",
+        "author" : "Nit Vashishtha",
+        "date" : "04/04/2025"
+    }
+]
