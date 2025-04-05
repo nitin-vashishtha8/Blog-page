@@ -1,29 +1,33 @@
-body {
-  font-family: "Poppins", sans-serif;
-  background-color: #f8f9fa;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 .App {
   width: 100%;
   text-align: center;
+  background-color: #f0f0f0
 }
 
-.navbar{
-  background-color: #2980b9;
-  padding: 20px;
+.header{
+  background-color: white;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+  height: 40px;
+  width: 100%;
   display: flex;
-  color: white;
   position: sticky;
   top: 0;
   z-index: 1000;
 }
-.navbar h1 {
-  position: sticky;
-  font-size: 22px;
-  color: #333;
+.header h1 {
+  margin-left: 20px;
+  font-size: 20px;
+  font-family: Arial;
+  font-weight: lighter;
+  color: black;
+}
+.header img {
+  height: 25px;
+  width: 25px;
+  margin-right: 20px;
+  cursor: pointer;
 }
 
 
